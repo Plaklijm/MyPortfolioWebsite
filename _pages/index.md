@@ -22,12 +22,9 @@ This is a normal paragraph following a header. GitHub is a code hosting platform
 
 ### Header 3
 
-```js
+```C++
 // Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
+std::cout << "Hello world!" << std::endl;
 ```
 
 ```ruby
