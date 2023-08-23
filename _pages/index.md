@@ -134,9 +134,9 @@ void registerPlugins(PluginRegistry registry) {
 
 <dl>
 <dt>Name</dt>
-<dd>Godzilla</dd>
+<dd>Michiel</dd>
 <dt>Born</dt>
-<dd>1952</dd>
+<dd>2003</dd>
 <dt>Birthplace</dt>
 <dd>Japan</dd>
 <dt>Color</dt>
